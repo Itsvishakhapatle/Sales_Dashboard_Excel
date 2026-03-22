@@ -1,62 +1,47 @@
 # Sales_Dashboard_Excel
 Sales dashboard by using excel
+📊 Sales Dashboard - Excel Project (Day 3 Challenge)
+🚀 Overview
 
-1. Dashboard Project Report
-🧩 Project Title
+This project is part of my 7-Day Data Analytics Challenge, where I built an interactive Sales Dashboard using Microsoft Excel.
 
-Sales Performance Dashboard (Excel)
+The dashboard provides insights into sales performance across different regions, categories, and time periods.
 
-🎯 Objective
+🎯 Objectives
+Analyze sales data effectively
+Build an interactive dashboard
+Generate meaningful business insights
 
-To analyze sales data and create an interactive dashboard that helps in identifying:
-Revenue trends over time
-Top-performing products
-Regional performance
-Category-wise contribution
+📌 Features
+KPI Cards (Total Revenue, Average Sales, Top Product, Top Region)
+Monthly Sales Trend (Line Chart)
+Category-wise Contribution (Pie Chart)
+Revenue by Region (Bar Chart)
+Interactive Filters (Slicers)
 
-📌 Key Metrics (KPIs)
-Total Revenue: 6,740,582
-Average Sales: 6,740
-Top Product: Stapler
-Top Region: North
+🛠️ Tools Used
+Microsoft Excel
+Pivot Tables
+Charts & Graphs
+Slicers
 
-📈 Dashboard Components
-1. Trend Analysis (Line Chart)
-Shows monthly sales performance
-Helps identify peak & low months
-Useful for forecasting
+📈 Key Insights
+North region generates the highest revenue
+Office category is the top-performing segment
+Sales are consistent but show dips in certain months
 
-3. Category Contribution (Pie Chart)
-Home: 35%
-Office: 34%
-Tech: 31%
-👉 Insight: Balanced distribution across categories
+📂 Files Included
+Raw Data Sheet
+Cleaned Data
+Interactive Dashboard
 
-5. Revenue by Region (Bar Chart)
-North is highest performer
-East is lowest
-👉 Helps in regional strategy planning
+💡 Learnings
+Data visualization techniques
+Dashboard structuring
+Business insight extraction
+Use of slicers for interactivity
 
-6. Category-wise Sales (Horizontal Bar)
-Office category generates highest revenue
-👉 Focus area for growth
-
-🎛️ Interactivity
-Slicers Used:
-Month filter
-Category filter
-Region filter
-👉 Enables dynamic analysis
-
-💡 Business Insights
-Strong sales in North region
-Office category drives maximum revenue
-Some months show dips → opportunity for promotions
-Balanced category contribution reduces risk
-🚀 Conclusion
-
-This dashboard provides a real-time decision-making tool for:
-
-Sales monitoring
-Strategy planning
-Performance tracking
+🔥 Future Improvements
+Add profit analysis
+Include forecasting
+Improve dashboard design aesthetics
